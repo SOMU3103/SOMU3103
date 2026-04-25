@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-> *"Technology means nothing unless it solves something real — that's what gets me out of bed."*
+> *"Technology means nothing unless it solves something real that's what gets me out of bed."*
 
 Highly motivated and adaptable Computer Science Engineering student, passionate about leveraging technology to solve real-world problems. Eager to learn, quick to adapt, and driven by curiosity and innovation. Seeking an entry-level opportunity in a progressive organization that fosters learning, values creativity, and supports professional growth.
 ---
