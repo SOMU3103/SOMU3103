@@ -62,19 +62,13 @@ Highly motivated and adaptable Computer Science Engineering student, passionate 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
+## 🚀 Projects
 
-## 🚀 Featured Projects
+<div align="center">
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| 🔗 **LinkedHub** | Collaborative platform for students to post tasks, find peers & share study materials | Python, Django, PostgreSQL, AWS | [GitHub](https://github.com/SOMU3103/LinkedHub.git) |
-| 🎙️ **Fink Link** | AI-powered laptop automation using voice commands — accessibility-first design | Python, Tkinter, ML, OpenCV | [GitHub](https://github.com/SOMU3103/FINK-LINK.git) |
-| 🏠 **DoorPay** | Digital payment platform simplifying rent payments for college students & landlords | Python, Django, MongoDB, AWS | [GitHub](https://github.com/SOMU3103/Doorpay.git) |
-| 🌾 **AGROROOT** | Agricultural e-commerce platform connecting farmers, buyers & consumers | Python, Django, MongoDB, SAP, AWS | [LinkedIn](https://www.linkedin.com/posts/somnath312006_techmarvel-saphackathon2025-mahendrainstituteoftechnology-activity-7351956751413334018-lsqw) |
-| 🎵 **TuneX** | Desktop music manager with YouTube audio downloader and modern dark UI | Python, Tkinter, yt-dlp, pygame | [Live](https://somu3103.github.io/TuneX/) |
-| 📊 **Data Analytics Dashboard** | Beginner-friendly data exploration tool with rich visualizations | Python, Pandas, Seaborn, Matplotlib | [GitHub](https://github.com/SOMU3103/Data_Analytics.git) |
+[![View All Projects](https://img.shields.io/badge/View_All_My_Projects-%23100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SOMU3103?tab=repositories)
 
----
+</div>
 
 ## 💼 Experience
 
