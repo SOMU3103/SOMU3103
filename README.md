@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Replace the filename below with your actual banner image filename after uploading it to your repo -->
-![Banner](./banner.png)
+![Banner](./B.png)
 
 # 👋 Hi, I'm Somnath P
 
