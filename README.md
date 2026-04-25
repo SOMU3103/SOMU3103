@@ -98,15 +98,6 @@ Developed a Smart Face Counting System using Java for production-grade computer 
 | 🥉 **3rd Prize** | State Level Hackathon — Velammal College of Engineering | 2025 |
 
 ---
-
-## 📜 Certifications
-
-- 🧠 **Oracle AI Associate** — Oracle *(Mar 2026)*
-- 📊 **Data Analytics Job Simulation** — Deloitte *(Jan 2026)*
-- 🎨 **UI/UX Design** — GUVI | Google for Education Partner *(Jan 2024)*
-- ☕ **Java Programming** — Simplilearn SkillUp *(Nov 2025)*
-- 🐍 **Django** — GeeksForGeeks *(Dec 2025)*
-
 ---
 
 ## 📚 Publication
