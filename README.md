@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Replace the filename below with your actual banner image filename after uploading it to your repo -->
 ![Banner](./B.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Somnath+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
@@ -15,14 +14,15 @@
 
 ---
 
-## ABOUT ME 
+## 👨‍💻 ABOUT ME
 
-> *"Technology means nothing unless it solves something real that's what gets me out of bed."*
+> *"Technology means nothing unless it solves something real — that's what gets me out of bed."*
 
 Highly motivated and adaptable Computer Science Engineering student, passionate about leveraging technology to solve real-world problems. Eager to learn, quick to adapt, and driven by curiosity and innovation. Seeking an entry-level opportunity in a progressive organization that fosters learning, values creativity, and supports professional growth.
+
 ---
 
-##  TECH STACK  
+## 🛠️ TECH STACK
 
 ### 👨‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -62,7 +62,8 @@ Highly motivated and adaptable Computer Science Engineering student, passionate 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
-## PROJECTS 
+
+## 📂 PROJECTS
 
 <div align="center">
 
@@ -70,7 +71,9 @@ Highly motivated and adaptable Computer Science Engineering student, passionate 
 
 </div>
 
-## EXPERIENCE  
+---
+
+## 💼 EXPERIENCE
 
 ### 🏢 Data Scientist Intern — Apollo Pvt *(Jan 2026)*
 Analyzed real-world datasets and built machine learning models to uncover patterns and support data-driven decision-making.
@@ -80,7 +83,7 @@ Developed a Smart Face Counting System using Java for production-grade computer 
 
 ---
 
- ## ACHIEVEMENTS & AWARDS  
+## 🏆 ACHIEVEMENTS & AWARDS
 
 | 🥇 Achievement | Event | Year |
 |----------------|-------|------|
@@ -92,24 +95,29 @@ Developed a Smart Face Counting System using Java for production-grade computer 
 | 🥉 **3rd Prize** | State Level Hackathon — Velammal College of Engineering | 2025 |
 
 ---
----
 
-## PUBLICATION  
+## 📄 PUBLICATION
 
-**📄 An Efficient Early Diagnosis for Diabetic Retinopathy Using Quick Convolutional Diagnosis**
+**An Efficient Early Diagnosis for Diabetic Retinopathy Using Quick Convolutional Diagnosis**
 > Published at **ICAMT'24** (International Conference on Additive Manufacturing Technology) — *October 18, 2024*
 
 ---
 
-## GITHUB STATS
+## 📊 GITHUB STATS
 
 <div align="center">
 
-![Somnath's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOMU3103&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOMU3103&theme=tokyonight" alt="Somnath's GitHub Stats" width="100%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SOMU3103&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SOMU3103&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOMU3103&theme=tokyonight" alt="Stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOMU3103&theme=tokyonight" alt="Top Languages" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOMU3103&theme=tokyonight" alt="Most Used Language" width="32%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=SOMU3103&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
