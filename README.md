@@ -107,18 +107,20 @@ Developed a Smart Face Counting System using Java for production-grade computer 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SOMU3103&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Somnath's GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOMU3103&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SOMU3103&theme=tokyonight" alt="Somnath's GitHub Stats" width="100%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=SOMU3103&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SOMU3103&theme=tokyonight" alt="Stats" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SOMU3103&theme=tokyonight" alt="Top Languages" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SOMU3103&theme=tokyonight" alt="Most Used Language" width="32%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SOMU3103&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=SOMU3103&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 ---
 
 ## 🤝 LET'S CONNECT!
